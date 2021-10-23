@@ -1,0 +1,16 @@
+{
+  "AllNews": [
+    {
+      "NewsName": "A",
+      "NewsTitle": "A title",
+      "NewsDescription": "A description",
+      "NewsImage": "A.png"
+    },
+    {
+      "NewsName": "B",
+      "NewsTitle": "B title",
+      "NewsDescription": "B description",
+      "NewsImage": "B.png"
+    }
+  ]
+}
