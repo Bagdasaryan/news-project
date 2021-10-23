@@ -1,16 +1,28 @@
 {
   "AllNews": [
     {
-      "NewsName": "A",
-      "NewsTitle": "A title",
-      "NewsDescription": "A description",
-      "NewsImage": "A.png"
+      "NewsName": "Summer",
+      "NewsTitle": "What a summer",
+      "NewsDescription": "Wery beautiful summer",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/SUMMER.jpg"
     },
     {
-      "NewsName": "B",
-      "NewsTitle": "B title",
-      "NewsDescription": "B description",
-      "NewsImage": "B.png"
+      "NewsName": "Autumn",
+      "NewsTitle": "What an autumn",
+      "NewsDescription": "Wery beautiful autumn",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/AUTUMN.jpg"
+    },
+    {
+      "NewsName": "Spring",
+      "NewsTitle": "What a spring",
+      "NewsDescription": "Wery beautiful spring",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/SPRING.jpg"
+    },
+    {
+      "NewsName": "Winter",
+      "NewsTitle": "What a winter",
+      "NewsDescription": "Wery beautiful winter",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/WINTER.jpg"
     }
   ]
 }
