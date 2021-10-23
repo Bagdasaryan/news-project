@@ -23,6 +23,30 @@
       "NewsTitle": "What a winter",
       "NewsDescription": "Wery beautiful winter",
       "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/WINTER.jpg"
+    },
+    {
+      "NewsName": "Honor 8x",
+      "NewsTitle": "This is a honor 8x",
+      "NewsDescription": "Wery beautiful winter",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/HONOR_8X.jpg"
+    },
+    {
+      "NewsName": "Huawei matebook",
+      "NewsTitle": "This is a huawei matebook",
+      "NewsDescription": "Wery beautiful huawei matebook 15",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/HUAWEI_MATEBOOK.jpg"
+    },
+    {
+      "NewsName": "Iphone 13",
+      "NewsTitle": "This is an iphone 13",
+      "NewsDescription": "Wery beautiful iphone 13",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/IPHONE_13.jpg"
+    },
+    {
+            "NewsName": "aNDROID",
+      "NewsTitle": "This is an android",
+      "NewsDescription": "Wery beautiful android",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/ANDROID_LOGO.jpg"
     }
   ]
 }
