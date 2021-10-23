@@ -2,14 +2,14 @@
   "AllNews": [
     {
       "NewsName": "Summer",
+      "NewsTitle": "What a summer",
       "NewsDescription": "Wery beautiful summer",
       "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/SUMMER.jpg"
     },
     {
       "NewsName": "Autumn",
       "NewsTitle": "What an autumn",
-      "NewsDescription": "Wery beautiful autumn",
-      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/AUTUMN.jpg"
+      "NewsDescription": "Wery beautiful autumn"
     },
     {
       "NewsName": "Spring",
