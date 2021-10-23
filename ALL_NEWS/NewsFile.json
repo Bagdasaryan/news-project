@@ -9,7 +9,8 @@
     {
       "NewsName": "Autumn",
       "NewsTitle": "What an autumn",
-      "NewsDescription": "Wery beautiful autumn"
+      "NewsDescription": "Wery beautiful autumn",
+      "NewsImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/AUTUMN.jpg"
     },
     {
       "NewsName": "Spring",
