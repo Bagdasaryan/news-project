@@ -1,0 +1,31 @@
+{
+  "AllQuestions": [
+    {
+      "QuestionType": 1,
+      "Question": "How arey you?",
+      "AnswerFirst": "Bad",
+      "AnswerSecond": "Not bad",
+      "AnswerThird": "Good",
+      "AnswerFourth": "Wery good :)",
+      "RightAnswer": 4
+    },
+    {
+      "QuestionType": 1,
+      "Question": "1+1 = ?",
+      "AnswerFirst": "1",
+      "AnswerSecond": "2",
+      "AnswerThird": "3",
+      "AnswerFourth": "4",
+      "RightAnswer": 2
+    },
+    {
+      "QuestionType": 1,
+      "Question": "2*3 = ?",
+      "AnswerFirst": "1",
+      "AnswerSecond": "3",
+      "AnswerThird": "6",
+      "AnswerFourth": "4",
+      "RightAnswer": 3
+    }
+  ]
+}
