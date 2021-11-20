@@ -1,7 +1,7 @@
 {
   "QuizTypes": [
       {
-        "TypeName": "Anthyc history",
+        "TypeName": "Ancient history",
         "TypeCode": 1,
         "TypeImage": "https://raw.githubusercontent.com/Bagdasaryan/news-project/main/ALL_IMAGES/SUMMER.jpg"
       },
